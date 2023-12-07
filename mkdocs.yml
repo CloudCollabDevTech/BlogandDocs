@@ -15,7 +15,6 @@ theme:
   - content.code.annotation
   - content.code.copy
   language: en
-  custom_dir: theme_overrides/
   icon:
     repo: fontawesome/brands/github
   palette:
