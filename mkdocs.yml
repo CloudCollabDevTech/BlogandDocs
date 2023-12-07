@@ -58,8 +58,8 @@ markdown_extensions:
 
 plugins:
 - search
-- awesome-pages
-- section-index
+# - awesome-pages
+# - section-index
 - tags
 - blog
 
