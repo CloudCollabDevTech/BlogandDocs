@@ -1,4 +1,4 @@
-site_name: My Blogs and Docs - CloudCollabDevTech
+site_name: Blog - CloudCollabDevTech
 site_url: https://blog.cloudcollabdevtech.com
 site_description: This website will contain information pertaining to all aspects of Cloud, Collaboration, Development and Technology in general.
 use_directory_urls: false
@@ -53,8 +53,8 @@ markdown_extensions:
 - pymdownx.mark
 - attr_list
 - pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
+    emoji_index: !!python/name:material.emoji.twemoji
+    emoji_generator: !!python/name:material.emoji.to_svg
 
 # Repository
 repo_url: https://github.com/cloudcollabdevtech/bloganddocs
