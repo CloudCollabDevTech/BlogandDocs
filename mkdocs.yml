@@ -4,6 +4,7 @@ site_description: This website will contain information pertaining to all aspect
 use_directory_urls: false
 theme:
   name: material
+  logo: assets/logo.svg
   features:
   - navigation.tabs
   - navigation.sections
@@ -30,6 +31,7 @@ theme:
       name: Switch to light mode
     primary: teal
     accent: lime
+
 extra:
   social:
   - icon: fontawesome/brands/github-alt
