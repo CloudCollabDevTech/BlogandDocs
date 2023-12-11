@@ -10,8 +10,19 @@ theme:
   - navigation.sections
   - toc.integrate
   - navigation.top
+  - navigation.instant
+  - navigation.instant.prefetch
+  - navigation.instant.progress
+  - navigation.tracking
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.expand
+  - navigation.path
   - search.suggest
   - search.highlight
+  - toc.follow
+  - toc.integrate
   - content.tabs.link
   - content.code.annotation
   - content.code.copy
@@ -64,6 +75,12 @@ plugins:
 # - section-index
 - tags
 - blog
+
+nav:
+- Home: index.md
+- Blog:
+  - blog/index.md
+- Sandbox: domino.md
 
 # Repository
 repo_url: https://github.com/cloudcollabdevtech/bloganddocs
