@@ -24,3 +24,5 @@ Recently a client of mine came to me with a request. He had opened a case with H
 ## How to configure logging in Domino to Windows Event Viewer - Linux Server
 
 ## How do you redirect the Windows Event Viewer - Domino Events to Linux Syslog
+
+![Material for MkDocs 0.1.0][Material for MkDocs 0.1.0]
