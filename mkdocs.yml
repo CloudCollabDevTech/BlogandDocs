@@ -4,7 +4,8 @@ site_description: This website will contain information pertaining to all aspect
 use_directory_urls: false
 theme:
   name: material
-  logo: images/logo.svg
+  custom_dir: material/overrides
+  logo: assets/images/logo.svg
   features:
   - navigation.tabs
   - navigation.sections
