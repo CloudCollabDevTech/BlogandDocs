@@ -35,7 +35,7 @@ theme:
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
-    primary: teal
+    primary: navy
     accent: purple
   - scheme: slate
     toggle:
@@ -66,9 +66,11 @@ markdown_extensions:
 - pymdownx.superfences
 - pymdownx.mark
 - attr_list
+- md_in_html
 - pymdownx.emoji:
     emoji_index: !!python/name:material.extensions.emoji.twemoji
     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 
 plugins:
 - search
@@ -78,9 +80,9 @@ plugins:
 - blog
 
 nav:
-- Home: index.md
 - Blog:
   - blog/index.md
+- Introduction: index.md
 - Sandbox: domino.md
 
 # Repository
