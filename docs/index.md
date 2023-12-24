@@ -2,18 +2,21 @@
 
 This Website will endevour to provide information about various facets of different technologies like Cloud, Collaboration, Development and Technology. These pages will be broken into various topics. Work in progress.
 
-## **Brief Introduction -Rishab Sharma**
+## **Brief Introduction - Rishab Sharma**
 
 ![My Photo](assets/images/rishabsharmanew-circle.png "My Photo"){: style="height:150px;width:150px"}
 
 <p>
-Highly motivated and result-oriented Technical Pre Sales and Sales Professional with over 25+ years of client facing experience across various industries as a Director - Sales, Director - Technical, Technical Sales Manager and many other similar roles.</p>
+  With over 25 years of client-facing experience in various industries, I am a highly motivated and result-oriented Senior Technical Advisor at HCL Software, specializing in multi-experience application development (MXDP) and cloud solutions. I help clients utilize the true value of our solution stack, from designing and developing solutions to providing pre sales and post sales support.
+</p>
 
 <p>
-Have exposure to people management and leadership roles both the Sales and Technical domains. In addition have excellent client relations skills with extensive technical and sales expertise across various technical areas.</p>
+  As a trusted advisor to our clients, I assist them in their digital transformation journey, working closely with sales to acquire new logos and retain existing clients. I have extensive technical and sales expertise across various areas, such as collaboration, low-code no-code, knowledge management, and digital experience. I have also co-authored two IBM Redbooks publications on Lotus Notes and Domino deployment and version 8.5. I am passionate about learning new technologies, adapting to changing needs, and mentoring others.
+</p>
 
 <p>
-Few areas of technical expertise include Collaboration Solutions (Email, Collaboration), Multi Experience Application Development (MXDP), Digital Transformation, Low-Code No-Code Solutions, Knowledge Management, Cloud, Cloud Native, Digital Experience. Exceptionally skilled in understanding client requirements and mapping business needs to technology solutions. Co-authored Lotus Notes and Domino 8 Deployment Guide - an IBM Redbooks Publication and IBM Redbooks: Lotus Notes and Domino version 8.5 Deployment Guide</p>
+  Co-authored Lotus Notes and Domino 8 Deployment Guide - an IBM Redbooks Publication and IBM Redbooks: Lotus Notes and Domino version 8.5 Deployment Guide
+</p>
 
 <p>
 Specialties: Pre Sales, Sales, Evangelist, Technical Advisor, Architect, Mentor, People Manager, Quick Adaptation, Motivated, Willing to Learn, Fast Learner</p>
