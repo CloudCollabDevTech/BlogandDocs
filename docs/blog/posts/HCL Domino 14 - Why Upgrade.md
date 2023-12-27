@@ -5,19 +5,20 @@ description: >
   This blog article talks about HCL Domino 14 and why upgrade to Domino 14.
 categories:
   - Domino
+comments: true
 ---
 
 # **HCL Domino 14 - Why Upgrade**
 
 Post 1/2
 
-![Introduction](assets/images/domino14/header.jpeg){: style="height:175px;width:100%"}
-
 ## **Introduction**
 
 When HCL Software took over the reins of HCL Domino from IBM. We at HCL Software worked on a belief and thought process which is reflective of our mantra #dominoforever. This is not an empty statement or some marketing statement it truly defines us, and we have been able to demonstrate this amply in the last 4 years. We have launched at least 4 major releases of HCL Domino (10, 11, 12 and now 14) in the last 4 years. All these releases have focused on numerous enhancements, new features, technical debt in addition to productivity and holistically improving all around experience be it User / Administrator / Developer.
 
 <!-- more -->
+
+![Introduction](assets/images/domino14/header.jpeg){: style="height:175px;width:100%"}
 
 ## **HCL Domino 14 “Thames” – Key Points**
 

@@ -5,6 +5,7 @@ description: >
   This blog article talks about how we can enable Event Logging for a Domino Server running on Windows to a Linux Syslog.
 categories:
   - Domino
+comments: true
 ---
 
 # **Event Logging from Domino on Windows to Linux Syslog**
@@ -44,7 +45,7 @@ Recently a client of mine came to me with a request. He had opened a case with H
 
 ## **How to configure logging in Domino to Windows Event Viewer - Linux Server**
 
-For HCL Domino running on Windows the same steps enlisted above will work [Configure logging in Domino to syslog - Linux Server](#how-to-configure-logging-in-domino-to-syslog-linux-server)
+For HCL Domino running on Windows the same steps enlisted above will work.
 
 With the exception of Step 4 where instead of `Log to Unix System Log` select **`Log to Event Viewer`**
 ![Logging to Windows Event Viewer](assets/images/eventpost/windoweventhandler.png "Windows Event Viewer"){: style="height:350px;width:600px"}
