@@ -23,24 +23,24 @@ Recently a client of mine came to me with a request. He had opened a case with H
 
 > :bulb: For Linux it is fairly simple.
 
-1.  You would obviously need your **HCL Domino Server** running on **Linux**.
-2.  You will need access to `events4.nsf` or Monitoring Configuration Database
-    ![Events Db](assets/images/eventpost/events4.png "Monitoring Configuration Database"){: style="height:400px;width:640px"}
-3.  Open the `events4.nsf` and Create a new event handler
-    ![Create new event handler](assets/images/eventpost/eventhandler.png "Create new event handler"){: style="height:300px;width:600px"}
-4.  Now you can configure the event handler accordingly. You can look into [Event Handler Documentation from HCL Software](https://help.hcltechsw.com/domino/14.0.0/admin/admn_eventhandlers_t.html "Event Handler Documentation")
+1. You would obviously need your **HCL Domino Server** running on **Linux**.
+2. You will need access to `events4.nsf` or Monitoring Configuration Database
+   ![Events Db](assets/images/eventpost/events4.png "Monitoring Configuration Database"){: style="height:400px;width:640px"}
+3. Open the `events4.nsf` and Create a new event handler
+   ![Create new event handler](assets/images/eventpost/eventhandler.png "Create new event handler"){: style="height:300px;width:600px"}
+4. Now you can configure the event handler accordingly. You can look into [Event Handler Documentation from HCL Software](https://help.hcltechsw.com/domino/14.0.0/admin/admn_eventhandlers_t.html "Event Handler Documentation")
 
-    > Some Screenshots below.
+   > Some Screenshots below.
 
-    ![Event Handler 1](assets/images/eventpost/eventhandler1.png "Event Handler 1"){: style="height:350px"}
-    ![Event Handler 2](assets/images/eventpost/eventhandler2.png "Event Handler 2"){: style="height:350px;width:600px"}
-    ![Event Handler 3](assets/images/eventpost/eventhandler3.png "Event Handler 3"){: style="height:350px;width:600px"}
+   ![Event Handler 1](assets/images/eventpost/eventhandler1.png "Event Handler 1"){: style="height:350px"}
+   ![Event Handler 2](assets/images/eventpost/eventhandler2.png "Event Handler 2"){: style="height:350px;width:600px"}
+   ![Event Handler 3](assets/images/eventpost/eventhandler3.png "Event Handler 3"){: style="height:350px;width:600px"}
 
-5.  Once Done. Please **`Save and Close`**.
+5. Once Done. Please **`Save and Close`**.
 
-6.  To view the **syslog** in Linux there are a multiple ways. I used the **`lnav`** or [The Logfile Navigator](https://lnav.org/ "Logfile Navigator").
+6. To view the **syslog** in Linux there are a multiple ways. I used the **`lnav`** or [The Logfile Navigator](https://lnav.org/ "Logfile Navigator").
 
-    ![Syslog](assets/images/eventpost/syslog.png "Syslog Linux")
+   ![Syslog](assets/images/eventpost/syslog.png "Syslog Linux")
 
 ## **How to configure logging in Domino to Windows Event Viewer - Linux Server**
 
@@ -82,4 +82,4 @@ For this you can use a variety of tools essentially you need a log forwarder lik
 ![Syslog Domino Server1](assets/images/eventpost/syslogdomino.png "Syslog Domino Sever1")
 ![Syslog Domino Server2](assets/images/eventpost/syslogdomino1.png "SyslogDomino Server2")
 
-> :boom: This was my first attempt. Hope you liked it. Please provide your feedback at rsharma@cloudcollabdevtech.com. More updates coming...
+> :boom: This was my first attempt. Hope you liked it. Please provide your feedback at <rsharma@cloudcollabdevtech.com>. More updates coming...
