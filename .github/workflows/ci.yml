@@ -20,5 +20,6 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
-      #  - run: pip install mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mkdocs-markdownextradata-plugin mkdocs-git-authors-plugin mkdocs-blog-plugin mkdocs-section-index
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-awesome-pages-plugin # mkdocs-git-revision-date-localized-plugin mkdocs-markdownextradata-plugin mkdocs-git-authors-plugin mkdocs-blog-plugin mkdocs-section-index
       - run: mkdocs gh-deploy --force

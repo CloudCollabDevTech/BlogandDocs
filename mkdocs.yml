@@ -70,9 +70,8 @@ markdown_extensions:
 
 
 plugins:
+- awesome-pages
 - search
-# - awesome-pages
-# - section-index
 - tags
 - blog
 - privacy
@@ -84,6 +83,7 @@ plugins:
     - categories
     - tags
     comments_path: "#__comments"
+# - section-index
 
 
 extra:
