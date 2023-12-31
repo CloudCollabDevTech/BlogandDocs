@@ -8,7 +8,7 @@ categories:
 comments: true
 ---
 
-# **Event Logging from Domino on Windows to Linux Syslog**
+# **Event Logging Domino running on Windows to Linux Syslog**
 
 ## **Problem Definition**
 
