@@ -39,13 +39,13 @@ So in context of Low-Code No-Code we have essentially 3 main types of developmen
    - Pro Code Development involves professional developers or experienced coders utilising Low-Code platforms to expedite the development process or streamline repetitive tasks.
    - Professional developers use Low-Code platforms to accelerate certain aspects of the development process, such as integrating APIs, automating routine tasks, or rapidly prototyping solutions.
 
-## **What is Universal Development Platform - UDP**
+## **What is Unified Development Platform - UDP**
 
 With the multitude of tools, platforms, organisations in this space of Low-Code No-Code solutions unfortunately there is no single tool which does that effectively. We have some vendors / solutions which excel in one area but are found lacking in others as you can see below.
 
 ![Current State of the Market - HCL Volt MX provides all the capabilities](assets/images/udp/voltmxudp1.png){: style="height:400px;width:720px"}
 
-This is where Universal Development Platform - UDP can fill that void. The basic goal of UDP is to bring together different development approaches and meet the varying requirements of citizen developers, business users and professional developers. So in essence UDP should be able to guarantee:
+This is where Unified Development Platform - UDP can fill that void. The basic goal of UDP is to bring together different development approaches and meet the varying requirements of citizen developers, business users and professional developers. So in essence UDP should be able to guarantee:
 
 - **Support for Diverse User Groups**
 - **Unified Single Environment**
@@ -59,9 +59,9 @@ This is where Universal Development Platform - UDP can fill that void. The basic
 - **Single Infrastructure**
 - **Single License**
 
-## **Universal Development Platform (UDP) - Powered by HCL Volt MX**
+## **Unified Development Platform (UDP) - Powered by HCL Volt MX**
 
-HCL Volt MX is an industry-leading Universal Development Platform providing No-Code, Low-Code and Pro-Code capabilities. You can deliver beautiful apps — fast — across any device, all on one platform.
+HCL Volt MX is an industry-leading Unified Development Platform providing No-Code, Low-Code and Pro-Code capabilities. You can deliver beautiful apps — fast — across any device, all on one platform.
 
 ![HCL Volt MX - One Single Solution](assets/images/udp/voltmxudp2.png){: style="height:400px;width:720px"}
 
