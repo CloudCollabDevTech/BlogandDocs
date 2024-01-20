@@ -17,6 +17,8 @@ As explained in the [**previous article**](https://blog.cloudcollabdevtech.com/b
 As we discussed **HCL Volt MX** is the only solution in the market today which empowers organisations to achieve objectives of Citizen Development, Assisted Development and Pro-Code Development. As a testament to that is the recent recognition of **#HCLSoftware** was recognised as a Challenger in the **2023 - Gartner Magic Quadrant for Enterprise LCAP**. Please access the report at [**https://hclsw.co/pfgcrv**
 ](https://hclsw.co/pfgcrv)
 
+<!-- more -->
+
 ## **HCL Volt MX Components**
 
 HCL Volt MX as you can see from in the diagram has predominantly three components.
