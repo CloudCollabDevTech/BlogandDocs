@@ -12,6 +12,8 @@ comments: true
 
 ## **Introduction to HCL Leap - No Code**
 
+![Introduction to HCL Leap](https://media.licdn.com/dms/image/D4D12AQGEXF3fQ-ABIA/article-cover_image-shrink_600_2000/0/1706578144348?e=1712188800&v=beta&t=33_UTzQtht98FMagrl1MaYdcXRW-N3RqPe2XRu8KxsM){: style="height:10%;width:40%"}
+
 As explained in the [**previous article**](https://blog.cloudcollabdevtech.com/blog/2024/01/20/low-code-no-code-or-udp-powered-by-hcl-volt-mx---primer-series-2--n.html)- we explored the basic building blocks of HCL Volt MX.
 
 We explained the basic building blocks of HCL Volt MX. In this article we delve and understand **HCL Leap** in a more better manner.
