@@ -10,7 +10,7 @@ comments: true
 
 # **UDP (Low-Code No-Code) - Powered by HCL Volt MX - Primer Series 5/N**
 
-## **Introduction to HCL Leap - No Code**
+## **Introduction to HCL Leap - No Code - Creating a Form and Other Aspects**
 
 As explained in the [previous article](https://blog.cloudcollabdevtech.com/blog/2024/02/15/udp-low-code-no-code---powered-by-hcl-volt-mx---primer-series-4--n.html) - we got started on HCL Leap and we discovered how we can access Leap and start creating applications on the same.
 
